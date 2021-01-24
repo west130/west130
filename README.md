@@ -18,7 +18,7 @@ Hi, I'm [Felipe Estrada], a passionate self-taught Full Stack Web Developer 🚀
 - 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@felipeEstradaO](https://twitter.com/felipeEstradaO);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📝[Resume](https://drive.google.com/file/d/12Ca0x80dusRAGtAwt0j-pXZyb4SvD_AE/view)
 
 **Languages and Tools:**  
 
@@ -36,11 +36,11 @@ Hi, I'm [Felipe Estrada], a passionate self-taught Full Stack Web Developer 🚀
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   15 hrs          ███████████████████▓░░░░░   30.00 % 
-CSS          5 hrs           ████████████████░░░░░░░░░   10.00 % 
-JSON         10 hrs          ███████████████░░░░░░░░░░   20.00 % 
-TypeScript   5  hrs          ███████████████░░░░░░░░░░   10.00 % 
-Python       15  hrs         █████████████████░░░░░░░░   30.00 % 
+JavaScript   15 hrs          ██████████████████░░░░░░░   30.00 % 
+CSS          5 hrs           █████░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JSON         10 hrs          ███████████░░░░░░░░░░░░░░   20.00 % 
+TypeScript   5  hrs          █████░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python       15  hrs         ██████████████████░░░░░░░   30.00 % 
 ```
 <!--END_SECTION:waka-->
 
