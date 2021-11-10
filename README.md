@@ -18,7 +18,7 @@ Hi, I'm Felipe Estrada, a passionate self-taught Full Stack Web Developer 🚀 f
 - 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@felipeEstradaO](https://twitter.com/felipeEstradaO);
-- 📝[Resume](https://drive.google.com/file/d/12Ca0x80dusRAGtAwt0j-pXZyb4SvD_AE/view)
+- 📝[Resume](https://drive.google.com/file/d/1_prW5Tn1QQciayYxJ0o3_horc_SHz95v/view)
 
 **Languages and Tools:**  
 
